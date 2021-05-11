@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Javascript**
 
-- 📫 How to reach me **anasarif216@gmail.com**
+- 📫 How to reach me **anasarif216@gmail.com** or <a href='https://www.linkedin.com/in/ianasarif/' target='_blank'>LinkedIn</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
