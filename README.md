@@ -1,10 +1,13 @@
 # Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat" alt="ianas19" /> </p>
+
 
 - 🔭 I’m currently working on **Javascript**
 
 - 📫 How to reach me **anasarif216@gmail.com** or <a href='https://www.linkedin.com/in/ianasarif/' target='_blank'>LinkedIn</a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat" alt="ianas19" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
