@@ -6,6 +6,9 @@
 
 - 📫 How to reach me **anasarif216@gmail.com** or <a href='https://www.linkedin.com/in/ianasarif/' target='_blank'>LinkedIn</a>
 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ianasarif/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/iAnasArif) 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat" alt="ianas19" /> </p>
 
