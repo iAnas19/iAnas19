@@ -13,7 +13,7 @@
 
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat" alt="ianas19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ianas19" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
