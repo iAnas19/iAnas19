@@ -1,5 +1,4 @@
-# Hello There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
-
+# Hello There!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 
 - 🔭 I’m currently working on **ReactJs**
@@ -25,5 +24,4 @@
 
 
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&theme=react" /> 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&theme=react" /> [![Anurag github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
