@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/anas_arif_)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianas19" width="40" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianas19" width="100" /> </p>
 
 
 <h2 align="left">Languages and Tools:</h2>
