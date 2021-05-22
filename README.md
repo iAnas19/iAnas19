@@ -26,4 +26,5 @@
 
 
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&langs_count=12&theme=react&hide_border=true)" /> [![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react&hide_border=true&layout=compact)](https://github.com/ianas19) 
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&langs_count=12&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF&card_width=230&)" 
+    /> [![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF)](https://github.com/ianas19) 
