@@ -11,7 +11,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white )](https://www.twitter.com/anas_arif_)
 
 
-<img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianas19" width="150" />
+<img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianas19"  />
 
 
 
@@ -26,5 +26,5 @@
 
 
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&langs_count=12&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF&card_width=230&)" 
-    /> [![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=58A6FF&icon_color=58A6FF)](https://github.com/ianas19) 
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&border_color=58A6FF&langs_count=12&theme=react&title_color=58A6FF&icon_color=58A6FF&card_width=230)" 
+    /> [![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react&title_color=58A6FF&icon_color=58A6FF&border_color=58A6FF)](https://github.com/ianas19) 
