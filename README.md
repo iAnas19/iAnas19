@@ -17,11 +17,7 @@
 - [CurrencyConverter](https://ianas19.github.io/CurrencyExchange/): React js Application using external APIs to evaluate the currency exchange rates of today along with latest top tech news
 - [GoalSetter](goalsetterpk.herokuapp.com/): MERN application with login feature to create and delete goals.
 - [StoryBooks](https://github.com/iAnas19/StoryBooks): Story Publishing web application with public and private feature made with node js.
-<br><br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianas19"  />
-
-
+<br><br>
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -38,13 +34,12 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="35" height="auto" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="auto" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="35" height="auto" />
-          
-  
-  
   </p>
-    <br>
+  <img src="https://komarev.com/ghpvc/?username=ianas19&label=Profile%20views&color=0e75b6&style=flat-square" alt="ianas19"  />
 
 
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&border_color=58A6FF&theme=react&title_color=58A6FF&bg_color=22272E&icon_color=58A6FF&card_width=230)" 
-    /> [![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react&title_color=58A6FF&icon_color=58A6FF&border_color=58A6FF&bg_color=22272E)](https://github.com/ianas19) 
+<!-- <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianas19&border_color=58A6FF&theme=react&title_color=58A6FF&bg_color=22272E&icon_color=58A6FF&card_width=230)" 
+    /> 
+    
+    [![Github stats](https://github-readme-stats.vercel.app/api?username=ianas19&show_icons=true&count_private=true&theme=react&title_color=58A6FF&icon_color=58A6FF&border_color=58A6FF&bg_color=22272E)](https://github.com/ianas19) -->
