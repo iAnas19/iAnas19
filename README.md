@@ -24,6 +24,8 @@
 <p align="left"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width=35" height="auto"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="35" height="auto"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg"  width=35" height="auto"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="35" height="auto"/>                               
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"  width="35" height="auto"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="auto" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="35" height="auto" />
